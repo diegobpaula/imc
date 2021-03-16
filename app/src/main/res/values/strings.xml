@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="txt_imc">O que é IMC?</string>
+    <string name="txt_resp">O índice de massa corporal é uma medida internacional usada para calcular se uma pessoa está no peso ideal.</string>
+    <string name="txt_sexo">Informe seu sexo.</string>
+    <string name="rb_f">Feminino</string>
+    <string name="rb_m">Masculino</string>
+    <string name="txt_idade">Informe sua idade.</string>
+    <string name="txt_altura">Informe sua altura</string>
+    <string name="txt_peso">Informe seu peso</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpar">Limpar</string>
+</resources>
